@@ -13,4 +13,4 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxSc
 ```
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/cap-jmes.lua"))()
 ```
-![](https://i.imgur.com/AD61YxY.png)
+![](https://imgur.com/DNIVskr.png)
